@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"gm_obergeschoss.json"
+                 "value":"gm_erdgeschoss.json#start_von_holding"
                 }],
          "type":"tilelayer",
          "visible":true,
