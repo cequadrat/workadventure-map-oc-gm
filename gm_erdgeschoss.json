@@ -21,6 +21,12 @@
          "id":11,
          "name":"start_von_holding",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -33,6 +39,12 @@
          "id":14,
          "name":"start_von_obergeschoss_links",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
@@ -45,6 +57,12 @@
          "id":15,
          "name":"start_von_obergeschoss_rechts",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
