@@ -183,7 +183,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":115,
+                 "height":39,
                  "id":2,
                  "name":"",
                  "rotation":0,
@@ -191,16 +191,34 @@
                     {
                      "fontfamily":"MS Serif",
                      "halign":"center",
-                     "pixelsize":27,
+                     "pixelsize":35,
                      "text":"Holding",
                      "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":133.333333333333,
-                 "x":124,
-                 "y":703.166666666667
+                 "width":105.833333333333,
+                 "x":139.5,
+                 "y":755.166666666667
+                }, 
+                {
+                 "height":30,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"MS Serif",
+                     "pixelsize":35,
+                     "text":"Zur",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":51,
+                 "x":165,
+                 "y":725.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -209,7 +227,7 @@
          "y":0
         }],
  "nextlayerid":17,
- "nextobjectid":5,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "properties":[
         {
