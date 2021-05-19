@@ -189,9 +189,10 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"MS Serif",
+                     "bold":true,
+                     "fontfamily":"Courier New",
                      "halign":"center",
-                     "pixelsize":35,
+                     "pixelsize":24,
                      "text":"Holding",
                      "valign":"center",
                      "wrap":true
@@ -200,25 +201,28 @@
                  "visible":true,
                  "width":105.833333333333,
                  "x":138,
-                 "y":763.166666666667
+                 "y":755.666666666667
                 }, 
                 {
-                 "height":30,
+                 "height":22.5,
                  "id":5,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"MS Serif",
-                     "pixelsize":35,
+                     "bold":true,
+                     "fontfamily":"Courier New",
+                     "halign":"center",
+                     "pixelsize":24,
                      "text":"Zur",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":51,
-                 "x":165.5,
-                 "y":715.5
+                 "width":68,
+                 "x":155.5,
+                 "y":724.5
                 }],
          "opacity":1,
          "type":"objectgroup",

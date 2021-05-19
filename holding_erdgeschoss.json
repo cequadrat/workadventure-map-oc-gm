@@ -110,23 +110,24 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":30.1666666666666,
+                 "height":23.8333333333333,
                  "id":5,
                  "name":"",
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"MS Serif",
+                     "bold":true,
+                     "fontfamily":"Courier New",
                      "halign":"center",
-                     "pixelsize":35,
+                     "pixelsize":24,
                      "text":"NL GM",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":117,
-                 "x":1764.5,
-                 "y":93.3333333333333
+                 "x":1764.83333333333,
+                 "y":91
                 }, 
                 {
                  "height":29.6666666666667,
@@ -135,16 +136,19 @@
                  "rotation":0,
                  "text":
                     {
-                     "fontfamily":"MS Serif",
-                     "pixelsize":35,
+                     "bold":true,
+                     "fontfamily":"Courier New",
+                     "halign":"center",
+                     "pixelsize":24,
                      "text":"Zur",
+                     "valign":"center",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":49.3333333333333,
-                 "x":1797.66666666667,
-                 "y":50.1666666666667
+                 "x":1797,
+                 "y":53.8333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
