@@ -120,14 +120,14 @@
                      "fontfamily":"Courier",
                      "halign":"center",
                      "pixelsize":25,
-                     "text":"NL GM",
+                     "text":"Nieder-",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":81,
-                 "x":1786.16666666666,
-                 "y":90.6666666666667
+                 "width":110,
+                 "x":1769.5,
+                 "y":64.3333333333333
                 }, 
                 {
                  "height":29.6666666666667,
@@ -148,7 +148,45 @@
                  "visible":true,
                  "width":49.3333333333333,
                  "x":1800,
-                 "y":53.8333333333333
+                 "y":41.5
+                }, 
+                {
+                 "height":23.6666666666667,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Courier",
+                     "pixelsize":25,
+                     "text":"GM",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":32.3333333333335,
+                 "x":1807.33333333333,
+                 "y":111.833333333333
+                }, 
+                {
+                 "height":29.6666666666667,
+                 "id":9,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "bold":true,
+                     "fontfamily":"Courier",
+                     "pixelsize":25,
+                     "text":"lassung",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":109,
+                 "x":1769.66666666667,
+                 "y":86.8333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -157,7 +195,7 @@
          "y":0
         }],
  "nextlayerid":14,
- "nextobjectid":7,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
