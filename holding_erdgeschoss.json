@@ -119,7 +119,7 @@
                      "fontfamily":"MS Serif",
                      "halign":"center",
                      "pixelsize":21,
-                     "text":"Zur Nieder-lassung Gummers-bach",
+                     "text":"Zur Nieder-\nlassung Gummers-\nbach",
                      "wrap":true
                     },
                  "type":"",
