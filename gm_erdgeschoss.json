@@ -190,9 +190,9 @@
                  "text":
                     {
                      "bold":true,
-                     "fontfamily":"Courier New",
+                     "fontfamily":"Courier",
                      "halign":"center",
-                     "pixelsize":24,
+                     "pixelsize":25,
                      "text":"Holding",
                      "valign":"center",
                      "wrap":true
@@ -211,9 +211,9 @@
                  "text":
                     {
                      "bold":true,
-                     "fontfamily":"Courier New",
+                     "fontfamily":"Courier",
                      "halign":"center",
-                     "pixelsize":24,
+                     "pixelsize":25,
                      "text":"Zur",
                      "valign":"center",
                      "wrap":true
